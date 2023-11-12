@@ -1,0 +1,12 @@
+[Unit]
+Description=Ethernet Mode
+Wants=network-online.target
+After=network.target network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/etc/novamostra/ethCapture.sh
+TimeoutSec=0
+
+[Install]
+WantedBy=multi-user.target
