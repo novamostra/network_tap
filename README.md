@@ -14,7 +14,7 @@ Tiny RTC I2C Module DS1307 Real Time Clock
 Tactile Push Button 12 x 12 mm
 ## Schematic
 <p align="center">
-  <img src="/schematic/networTap.png">
+  <img src="/schematic/networkTap.png">
 </p>
 
 <a href="https://novamostra.com/2023/11/12/plug-and-play-raspberry-pi-4-network-tap/">Read more at novamostra.com</a>
