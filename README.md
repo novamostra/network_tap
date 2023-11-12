@@ -13,7 +13,7 @@ The Real Time Clock (RTC) is used to store the time even when the Network Tap is
 - Startech USB312SAT3CB - USB 3.1 to 2.5" SATA Hard Drive Adapter
 - Tiny RTC I2C Module DS1307 Real Time Clock
 - Tactile Push Button 12 x 12 mm
-- 
+  
 ## Schematic
 <p align="center">
   <img src="/schematic/networkTap.png">
